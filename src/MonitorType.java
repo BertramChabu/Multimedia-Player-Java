@@ -1,0 +1,4 @@
+enum MonitorType {
+    LCD,
+    LED
+}
